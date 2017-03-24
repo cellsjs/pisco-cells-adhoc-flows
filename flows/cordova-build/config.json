@@ -1,0 +1,7 @@
+{
+  "name": "cordova-build",
+  "description": "Build the distribution in the folder ./www of a Cordova App",
+  "steps": {
+    "cordova-build": {}
+  }
+}

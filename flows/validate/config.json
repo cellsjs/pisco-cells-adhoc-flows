@@ -1,0 +1,18 @@
+{
+  "name": "validate",
+  "description": "Cells components validation flow",
+  "steps": {
+    "lint": {
+      "implementation-check" : false
+    },
+    "unit-testing": {
+      "implementation-check" : false
+    },
+    "demo-tests": {
+      "implementation-check" : false
+    },
+    "check-theme": {
+      "implementation-check" : false
+    }
+  }
+}

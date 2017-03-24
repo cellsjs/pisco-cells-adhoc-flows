@@ -1,0 +1,7 @@
+{
+  "name": "kpis",
+  "description": "Show workspace kpis",
+  "steps": {
+    "show-kpis": {}
+  }
+}

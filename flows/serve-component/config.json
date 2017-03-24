@@ -1,0 +1,12 @@
+{
+  "name": "serve",
+  "description": "Serve your components",
+  "steps": {
+    "polyserve": {},
+    "browser-sync": {
+      "inputs": {
+        "proxyPort": { "polyserve": "port" }
+      }
+    }
+  }
+}

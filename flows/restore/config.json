@@ -1,0 +1,7 @@
+{
+  "name": "restore",
+  "description": "Restore your application from package.json configuration",
+  "steps": {
+    "build_": {}
+  }
+}

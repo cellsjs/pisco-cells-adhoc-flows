@@ -1,0 +1,7 @@
+{
+  "name": "build",
+  "description": "Build the distribution of a Cells application",
+  "steps": {
+    "build": {}
+  }
+}

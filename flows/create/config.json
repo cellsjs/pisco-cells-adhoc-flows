@@ -1,0 +1,8 @@
+{
+  "name": "create",
+  "description": "Context creation flow",
+  "isGenerator": true,
+  "steps": {
+    "create": {}
+  }
+}

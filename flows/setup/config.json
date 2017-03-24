@@ -1,0 +1,10 @@
+{
+  "name": "setup",
+  "description": "Configure and checks all environment requirements for Cells-cli",
+  "isGenerator": true,
+  "steps": {
+    "checkSSH": {},
+    "checkRegistry": {},
+    "cellsDomain" : {}
+  }
+}

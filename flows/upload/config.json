@@ -1,0 +1,7 @@
+{
+  "name": "upload",
+  "description": "Upload bundle",
+  "steps": {
+    "upload": {}
+  }
+}

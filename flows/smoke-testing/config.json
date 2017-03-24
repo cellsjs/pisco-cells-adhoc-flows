@@ -1,0 +1,12 @@
+{
+  "name": "smoke-testing",
+  "description": "Build Verification Testing",
+  "steps": {
+    "deploy": {},
+    "smoke-testing": {
+      "inputs": {
+        "smokeTestsBaseUrl": { "deploy": "baseUrl" }
+      }
+    }
+  }
+}

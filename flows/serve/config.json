@@ -1,0 +1,7 @@
+{
+  "name": "serve-app",
+  "description": "Serve the distribution of a Cells application",
+  "steps": {
+    "serve": {}
+  }
+}
