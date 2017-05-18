@@ -1,0 +1,19 @@
+{
+  "name": "serve",
+  "description": "'serve' flow adapted for the command line interface, with an initial wizard to inquire the parameters",
+  "steps": {
+    "inquire4serve": {},
+    "install": {
+      "type": "flow"
+    },
+    "build": {
+      "type": "flow"
+    },
+    "package": {
+      "type": "flow"
+    },
+    "launch": {
+      "type": "flow"
+    }
+  }
+}
