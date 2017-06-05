@@ -9,9 +9,6 @@
     "build": {
       "type": "flow"
     },
-    "package": {
-      "type": "flow"
-    },
     "launch": {
       "type": "flow"
     }
