@@ -18,7 +18,9 @@ All the gitflow contexts are excluded:
 
 ## Steps
 
-It has only one step: `launch` with the same name that the flow that uses it.
+It has only one step: `launch` with the same name of the flow that uses it. It will serve the software unit so it will
+be accesible externally. For example, in the case of an app or a web application, it will launch a web server with
+the last changes. If this is a web service, the application will be accesible for xml requests, etc...
 
 [1]: https://github.com/cellsjs/pisco-gitflow-contexts/blob/master/contexts/develop/index.js
 [2]: https://github.com/cellsjs/pisco-gitflow-contexts/blob/master/contexts/master/index.js
