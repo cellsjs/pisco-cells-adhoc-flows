@@ -21,7 +21,7 @@ The steps of this flow are defined in the [configuration file][1]. This is the f
 }
 ```
 
-So we have a [`serve-configure`][2] step, and a [`provide`][3], [`build`][4] and [`launch`][5] flows.
+So we have a [`serve-configure`](#serve-configure) step, and a [`provide`](#install), [`build`](#build) and [`launch`](#launch) flows.
 
 ### <a name="serve-configure"></a>serve-configure step
 
